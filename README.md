@@ -1,4 +1,4 @@
-# Advanced applications of neural networks (deep learning): 2022/2023
+# Advanced applications of neural networks [2022/2023]
 
 ## Lecture 1: Neural Networks
 * [Slides](https://docs.google.com/presentation/d/1qduaeY4fNZ3H-cEO4oG7AMAS8FZ030ZJ5x9Ig5NkNbA/edit?usp=sharing)
