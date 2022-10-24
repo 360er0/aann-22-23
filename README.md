@@ -8,6 +8,9 @@
 
 ## Module 2: Deep Learning
 
+* [Slides](https://docs.google.com/presentation/d/184D0py8DpnogN4FGgZTQJR9sr1feCH4b4WZKuwANsVE/edit?usp=sharing)
+* [Lab 4: Vanishing Gradient](https://www.kaggle.com/lomero/aann-22-23-lab-04-vanishing-gradient)
+
 ## Module 3: Training tips & tricks
 
 ## Module 4: Evaluation & Explainable AI
