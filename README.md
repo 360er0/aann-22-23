@@ -10,6 +10,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/184D0py8DpnogN4FGgZTQJR9sr1feCH4b4WZKuwANsVE/edit?usp=sharing)
 * [Lab 4: Vanishing Gradient](https://www.kaggle.com/lomero/aann-22-23-lab-04-vanishing-gradient)
+* [Lab 5: PyTorch Lightning]()
 
 ## Module 3: Training tips & tricks
 
