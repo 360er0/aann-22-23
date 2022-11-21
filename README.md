@@ -23,7 +23,7 @@
 
 ## Lecture 6: Training tips & tricks
 * [Slides](https://docs.google.com/presentation/d/1LKxLv1Va2KaFZfi6gSDAxy7_We6RN4FZasbVRb6jmEI/edit?usp=sharing)
-* [Lab 7: Training]()
+* [Lab 7: Training](https://www.kaggle.com/lomero/aann-22-23-lab-07-training)
 
 ## Lecture 7: Evaluation & Explainable AI
 
