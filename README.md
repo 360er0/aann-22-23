@@ -21,10 +21,10 @@
 * [Slides](https://docs.google.com/presentation/d/1BS8-0MmdfhFm9kJttulnjZzPzjT8kl6RdrPUWnY-7J8/edit?usp=sharing)
 * [Lab 6: Transformers](https://www.kaggle.com/lomero/aann-22-23-lab-06-transformers)
 
-## Lecture 6: Training tips & tricks
+## Lecture 6 & 7: Training tips & tricks
 * [Slides](https://docs.google.com/presentation/d/1LKxLv1Va2KaFZfi6gSDAxy7_We6RN4FZasbVRb6jmEI/edit?usp=sharing)
 * [Lab 7: Training](https://www.kaggle.com/lomero/aann-22-23-lab-07-training)
 
-## Lecture 7: Evaluation & Explainable AI
+## Lecture 8: Evaluation & Explainable AI
 
-## Lecture 8: Data-centric AI
+## Lecture 9: Data-centric AI
