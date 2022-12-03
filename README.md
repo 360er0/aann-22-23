@@ -26,9 +26,14 @@
 * [Slides](https://docs.google.com/presentation/d/1LKxLv1Va2KaFZfi6gSDAxy7_We6RN4FZasbVRb6jmEI/edit?usp=sharing)
 * [Lab 7: Training](https://www.kaggle.com/lomero/aann-22-23-lab-07-training)
 
-### Lecture 8: Evaluation & Explainable AI
+### Lecture 8: Evaluation
+* [Slides](https://docs.google.com/presentation/d/1qkWA_6DzvZJoaa463Da2F0s7HXc_V4kOB7_-htOGgEc/edit?usp=sharing)
+* [Lab 8: Spaces](https://huggingface.co/spaces/piotr-rybak/genre-classifier)
 
-### Lecture 9: Data-centric AI
+### Lecture 9: Building datasets
+* [Slides](https://docs.google.com/presentation/d/1bCZybEoKYvO7RWYGsie2j9zIr6l7AWbFyjqkuDrci9Y/edit?usp=sharing)
+
+### Lecture 10: Computer vision
 
 ## Grading
 The grading is based on the final project related to training a deep learning model.
