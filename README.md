@@ -34,6 +34,8 @@
 * [Slides](https://docs.google.com/presentation/d/1bCZybEoKYvO7RWYGsie2j9zIr6l7AWbFyjqkuDrci9Y/edit?usp=sharing)
 
 ### Lecture 10: Computer vision
+* [Slides](https://docs.google.com/presentation/d/1ESvylgQSKDOmGsgVyulBdEC58POd7xd44MqjmsiBC04/edit?usp=sharing)
+* [Lab 10: Image Classifier](https://www.kaggle.com/lomero/aann-22-23-lab-10-vision)
 
 ## Grading
 The grading is based on the final project related to training a deep learning model.
