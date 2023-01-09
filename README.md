@@ -37,6 +37,10 @@
 * [Slides](https://docs.google.com/presentation/d/1ESvylgQSKDOmGsgVyulBdEC58POd7xd44MqjmsiBC04/edit?usp=sharing)
 * [Lab 10: Image Classifier](https://www.kaggle.com/lomero/aann-22-23-lab-10-vision)
 
+### Lecture 11: Generative models
+* [Slides](https://docs.google.com/presentation/d/1W6guTC7fiibKhEUHMvPgyZl2zkfsTsio_kpzPbavsqQ/edit?usp=sharing)
+* [Lab 10: Image Classifier](https://www.kaggle.com/lomero/aann-22-23-lab-11-diffusion)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
