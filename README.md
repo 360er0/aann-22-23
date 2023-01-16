@@ -56,7 +56,7 @@ The grading is based on the final project related to training a deep learning mo
 
 #### Important dates:
 - **04.12.2022** - Send me an email with the project proposal. Even one sentence will suffice, e.g. "A classifier to recognize if it is raining outside based on a photo". 
-- **29.01.2023** - Send me an email with your final project, i.e. a short paper and the code you used to train the model.
+- **~~29.01.2023~~ 10.02.2023**  - Send me an email with your final project, i.e. a short paper and the code you used to train the model.
 
 #### Grading:
 - The most important part is the process of creating the model. This includes but is not limited to: choosing the appropriate evaluation method, choosing or preparing the datasets, and conducting experiments to train a model.
