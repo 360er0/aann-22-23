@@ -45,6 +45,10 @@
 * [Slides](https://docs.google.com/presentation/d/1MuIN5dJOcH5Pfh_PQULm9KYA-5OulbjLgpdZWVOyc5o/edit?usp=sharing)
 * [Lab 12: Metric learning](https://www.kaggle.com/lomero/aann-22-23-lab-12-metric-learning)
 
+### Lecture 13: Prompt Engineering
+* [Slides](https://docs.google.com/presentation/d/1QWOBd1G3klbh8IMILLHsYTNfdhpXKq43vhz-91F5EaM/edit?usp=sharing)
+* [Lab 13: Prompt Engineering](https://www.kaggle.com/lomero/aann-22-23-lab-13-promt-engineering)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
